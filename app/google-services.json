@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005115589971",
+    "project_id": "imagetotext-a7c59",
+    "storage_bucket": "imagetotext-a7c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005115589971:android:9d1b37b187b4bba5bf4da6",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005115589971-gll6osgcu88rqplcdl4ovuoskhp68oq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagetotext",
+            "certificate_hash": "eb979842c1809e453d9190ba269456bc2936797f"
+          }
+        },
+        {
+          "client_id": "1005115589971-18m83qgv0vijh72jp683rr7ojqiko9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHkjzwEEXfhsrDw_qw4OzCcTdVwnFjG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005115589971-18m83qgv0vijh72jp683rr7ojqiko9r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
